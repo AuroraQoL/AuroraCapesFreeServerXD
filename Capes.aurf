@@ -1,0 +1,6 @@
+' Aurora capes MD5 hashes of usernames
+' Temportary server
+' Use * as universal match so all users have capes
+' All hashes should be wrapped in |hash|
+*
+|1a79a4d60de6718e8e5b326e338ae533|
