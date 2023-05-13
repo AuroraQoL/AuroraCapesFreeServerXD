@@ -1,10 +1,8 @@
-' Aurora capes MD5 hashes of usernames
-' Temportary server
-' Use * as universal match so all users have capes
-' All hashes should be wrapped in |hash|designNumber|
-' Everything after it will be ignored
-
-*
+; Aurora capes MD5 hashes of usernames
+; Temportary server
+; Use * as universal match so all users have capes
+; All hashes should be wrapped in |hash|designNumber|
+; Everything after it will be ignored
 |1a79a4d60de6718e8e5b326e338ae533|0| Example
 |27eb336bacc9b6fdfaedb9730181a5a0|0| 1057281929352855552
 |c0af964746d2b54b16dc0e2b6808dffa|0| 802181548563496980
