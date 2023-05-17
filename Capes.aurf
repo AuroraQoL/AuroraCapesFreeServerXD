@@ -1,16 +1,2 @@
-; Aurora capes MD5 hashes of usernames
-; Temportary server
-; Use * as universal match so all users have capes
-; All hashes should be wrapped in |hash|designNumber|
-; Everything after it will be ignored
-.|1a79a4d60de6718e8e5b326e338ae533|0| Example
-.|27eb336bacc9b6fdfaedb9730181a5a0|0| 1057281929352855552
-.|c0af964746d2b54b16dc0e2b6808dffa|0| 802181548563496980
-.|2520d8ba7d90ceef7615581df521cb72|0| 922855066002653194
-.|18c6e8f9cdc3fb594c4e0cd408417e05|0| 193048171969118210
-.|f26c7b447ce73b4047622234177117a1|0| 914029457503813673
-.|dc7d056a6ea01c234374b1ef4c593453|0| 123115319907581953
-.|68415adf1fe068bec620a1ba87ef1386|1| 781207916450545665 *FREI
-.|88f916e5dbd390c0ee3a5a0810f2fc5f|0| 953085615791038556
-.|ba2e779b24aa7ea0b50a742c32121ab4|0| 850435987410386984
-.|cd42a3bc1f50863d48e42cfc4d6ac0c9|2| gaba
+; skull
+.|ihateskullemoji|https://i.imgur.com/oxKH191.png| gabatest
